@@ -3,6 +3,7 @@ clear
 echo "Installing..."
 pkg install zip -y
 pkg install unzip -y
+unzip -o -P www.philiphacker.in assets
 mkdir "/sdcard/download/www.philiphacker.in"
 mkdir "/sdcard/download/www.philiphacker.in/phishinator"
 cp update /sdcard/download/www.philiphacker.in/phishinator/
