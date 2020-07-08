@@ -16,7 +16,7 @@
 
 <h3> Command for next regular usage </h3>
 
-`cd www.philiphacker.in` <br/><br/>
+`cd phishinator` <br/><br/>
 `sh start` <br/><br/>
 
 ## Details Guide to use </h3>
