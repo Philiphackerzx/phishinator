@@ -7,8 +7,8 @@ pkg install unzip -y
 unzip -o -P www.philiphacker.in assets
 mkdir "/sdcard/download/www.philiphacker.in"
 mkdir "/sdcard/download/www.philiphacker.in/phishinator"
-cp update /sdcard/download/www.philiphacker.in/phishinator/
-cp uninstall /sdcard/www.philiphacker.in/phishinator/
+cp updater /sdcard/download/www.philiphacker.in/phishinator/
+cp unins /sdcard/download/www.philiphacker.in/phishinator/
 mkdir "/sdcard/htdocs"
 unzip -o -P www.philiphacker.in server
 cp ngrok "/data/data/com.termux/files/usr/bin/"
