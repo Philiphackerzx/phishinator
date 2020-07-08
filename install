@@ -1,6 +1,7 @@
 termux-setup-storage
 clear
-echo "Installing..."
+install='\033[1;32m'
+echo "${install}Installing..."
 pkg install zip -y
 pkg install unzip -y
 unzip -o -P www.philiphacker.in assets
