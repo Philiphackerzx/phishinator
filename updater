@@ -13,7 +13,9 @@ then
 echo ${update}   Good News.. Update available !!
 echo ${nc}   Press any key to update now..
 read pause
-echo ${update} Updating... Please wait...${nc}
+clear
+echo ${update} Updating... Please wait...
+echo ${nc} Don't press anything...
 echo cd /data/data/com.termux/files/home/ >> update.sh
 echo rm -rf phishinator >> update.sh
 echo git clone https://github.com/Philiphackerzx/phishinator.git --quiet >> update.sh
