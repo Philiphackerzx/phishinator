@@ -1,4 +1,5 @@
 rm update.sh
+rm unins.sh
 check=`cat check.io`
 if [ $check -eq 0 ]
 then
