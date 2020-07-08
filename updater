@@ -27,5 +27,6 @@ else
 clear 
 echo ${no}No update available.. You are up-to-date ✓
 sleep 2
-read pause && sh .phishinator
+read pause
+sh .phishinator
 fi
