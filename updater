@@ -8,7 +8,7 @@ cd update
 version=`cat version.io | grep "phi" | cut -c6-`
 clear
 
-if [ $version -eq 1 ]
+if [ $version -eq 2 ]
 then
 echo ${update}Good News.. Update available !!
 echo ${nc}Press any key to update now..
@@ -26,7 +26,4 @@ sh update.sh
 else
 clear 
 echo ${no}No update available.. You are up-to-date ✓
-sleep 2
-read pause
-sh .phishinator
 fi
