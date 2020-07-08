@@ -25,7 +25,8 @@ sh start
 else
 clear 
 echo ${no}No update available.. ${update}You are up-to-date ✓ ${nc}
-sleep 2
+echo Press any key to continue..
+read pause
 cd /data/data/com.termux/files/home/phishinator/
 sh start
 fi
