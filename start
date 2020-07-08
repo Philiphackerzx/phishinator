@@ -1,0 +1,10 @@
+rm update.sh
+check=`cat check.io`
+if [ $check -eq 0 ]
+then
+echo 1 > check.io
+sh install
+else
+unzip -o -P phishinator phishinator.sh && sh .phishinator
+fi
+

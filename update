@@ -1,0 +1,27 @@
+cd /data/data/com.termux/files/home/phishinator/
+echo Checking for Update.. Please wait..
+git clone https://github.com/Philiphackerzx/update --quiet
+cd update
+version=`cat version.io | grep "phi" | cut -c6-`
+clear
+
+if [ $version -eq 1 ]
+then
+echo Good News.. Update available !!
+echo Press any key to update now..
+read pause
+echo cd /data/data/com.termux/files/home/ >> update.sh
+echo rm -rf phishinator >> update.sh
+echo git clone https://github.com/Philiphackerzx/phishinator.git --quiet >> update.sh
+echo cd phishinator >> update.sh
+echo clear >> update.sh
+echo echo Update Successful ✓ >> update.sh
+echo echo Press any key to continue >> update.sh
+echo read pause >> update.sh
+echo sh start >> update.sh
+sh update.sh
+else
+clear 
+echo No update available.. You are up-to-date ✓
+read pause && sh .phishi
+fi

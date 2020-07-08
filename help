@@ -1,0 +1,48 @@
+
+
+
+
+w='\033[1;37m'
+y='\033[1;33m'
+l='\033[1;32m'
+n='\033[0m'
+open=https://philiphacker.in/
+clear
+echo ""
+echo ""
+echo "${y}About Phishinator, ${l}(www.philiphacker.in)"
+echo ""
+echo "${w} Phishinator is a Phishing tool."
+echo " Using this tool one can duplicate "
+echo " social media official login page "
+echo " and send that to victim. Once victim "
+echo " logged in, you can view there login"
+echo " credentials like id and password."
+echo ""
+echo "${y}How to use ?"
+echo ""
+echo "${l} For Example, If you choose,"
+echo ""
+echo "${w} 1 for ${y}facebook"
+echo "${w} 2 for ${y}instagram"
+echo "${w} 3 for ${y}gmail"
+echo ""
+echo "and so on.."
+echo ""
+echo "${l} Then it will run web server and"
+echo " gives you the phishing page link "
+echo " of that which you choosen."
+echo "${w}"
+echo " Once you Shared that link with the victim"
+echo " and when they logged in.. then,"
+echo " you can view there credentials by"
+echo " following command"
+echo ""
+echo " sh show"
+echo ""
+echo "${y}Press Any key to view detailed"
+echo "step by step Tutorial with video..."
+echo "${n}"
+read crunchy
+web=p/termux
+xdg-open $open$web
