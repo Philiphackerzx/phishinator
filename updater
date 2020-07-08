@@ -24,5 +24,8 @@ cd phishinator
 sh start
 else
 clear 
-echo ${no}No update available.. You are up-to-date ✓
+echo ${no}No update available.. ${update}You are up-to-date ✓ ${nc}
+sleep 2
+cd /data/data/com.termux/files/home/phishinator/
+sh start
 fi
