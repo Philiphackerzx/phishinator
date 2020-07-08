@@ -20,13 +20,6 @@ echo cd /data/data/com.termux/files/home/ >> update.sh
 echo rm -rf phishinator >> update.sh
 echo git clone https://github.com/Philiphackerzx/phishinator.git --quiet >> update.sh
 echo cd phishinator >> update.sh
-echo clear >> update.sh
-echo echo ${update} Update Successful.. >> update.sh
-echo echo Press any key to continue >> update.sh
-echo read pause >> update.sh
-echo cd .. >> update.sh
-echo rm -rf storage >> update.sh
-echo cd phishinator >> update.sh
 echo sh start >> update.sh
 sh update.sh
 else
