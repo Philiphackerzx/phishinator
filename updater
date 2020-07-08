@@ -20,7 +20,7 @@ echo git clone https://github.com/Philiphackerzx/phishinator.git --quiet >> upda
 echo cd phishinator >> update.sh
 echo clear >> update.sh
 echo echo ${update}Update Successful ! >> update.sh
-echo echo ${nc}Press any key to continue >> update.sh
+echo echo Press any key to continue >> update.sh
 echo read pause >> update.sh
 echo sh start >> update.sh
 sh update.sh
