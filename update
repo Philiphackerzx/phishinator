@@ -23,5 +23,5 @@ sh update.sh
 else
 clear 
 echo No update available.. You are up-to-date ✓
-read pause && sh .phishi
+read pause && sh .phishinator
 fi
