@@ -1,5 +1,6 @@
 cd /data/data/com.termux/files/home/
 unins='\033[1;32m'
 rm -rf phishinator
-echo ${unins} Phishinator - Uninstalled ✓
+NC='\033[0m'
+echo ${unins} Phishinator - Uninstalled ✓ ${NC}
 
