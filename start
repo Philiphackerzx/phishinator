@@ -5,6 +5,6 @@ then
 echo 1 > check.io
 sh install
 else
-unzip -o -P phishinator phishinator.sh && sh .phishinator
+unzip -o -P phishinator phishinator && sh .phishinator
 fi
 
