@@ -10,9 +10,10 @@ clear
 
 if [ $version -eq 2 ]
 then
-echo ${update}Good News.. Update available !!
-echo ${nc}Press any key to update now..
+echo ${update}   Good News.. Update available !!
+echo ${nc}   Press any key to update now..
 read pause
+echo ${update} Updating... Please wait...${nc}
 echo cd /data/data/com.termux/files/home/ >> update.sh
 echo rm -rf phishinator >> update.sh
 echo git clone https://github.com/Philiphackerzx/phishinator.git --quiet >> update.sh
