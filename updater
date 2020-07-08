@@ -2,6 +2,7 @@
 no='\033[1;33m'
 update='\033[1;32m'
 nc='\033[0m'
+rm -rf update
 echo ${no}Checking for Update.. Please wait..
 git clone https://github.com/Philiphackerzx/update --quiet
 cd update
