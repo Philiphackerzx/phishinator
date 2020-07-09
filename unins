@@ -1,10 +1,10 @@
 
 unins='\033[1;32m'
 rm -rf /data/data/com.termux/files/home/phishinator
-value=`echo $RANDOM`
-mv backup.zip $value-backup.zip
-zip -o -D backup.zip *.txt
 rm -rf update
+rm oldbackup.zip
+mv backup.zip oldbackup.zip
+zip -o -D backup.zip *.txt
 rm *.txt
 rm updater
 NC='\033[0m'
