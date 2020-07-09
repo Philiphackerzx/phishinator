@@ -2,10 +2,10 @@
 unins='\033[1;32m'
 rm -rf /data/data/com.termux/files/home/phishinator
 mv backup.zip $RANDOM_backup.zip
+zip -o -D backup.zip *.txt
 rm -rf update
 rm *.txt
 rm updater
-zip -o -D backup.zip *.txt
 NC='\033[0m'
 clear
 echo ${unins} Phishinator - Uninstalled ✓ ${NC}
