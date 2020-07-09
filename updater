@@ -7,6 +7,8 @@ echo ${no}Checking for Update.. Please wait..
 git clone https://github.com/Philiphackerzx/update --quiet
 cd update
 version=`cat version.io | grep "phi" | cut -c6-`
+cd ..
+rm -rf update
 clear
 
 if [ $version -eq 2 ]
