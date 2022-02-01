@@ -1,5 +1,7 @@
 # Phishinator v2 Windows (Portable)
 
+## Phishinator
+
 Phishinator is now available for windows <br/>
 Phishinator is phishing tool <br/>
 Use at your own risk <br/>
