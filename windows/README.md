@@ -12,7 +12,9 @@ Its made using python and batch scripts <br/>
 2) Unzip it with password : `www.philiphackerin` <br/>
 3) Run phish.exe - all done.
 
-## Download Links (phishinator.zip)
+## Download
+
+<b><i>Download Links for phishinator.zip</i></b>
 
 <a href="">Download</a><b> from Telegram</b>
 <br/><a href="">Download</a><b> from Gdrive</b>
