@@ -40,7 +40,7 @@ https://philiphacker.in/p/termux <br/><br/>
 https://philiphacker.in/p/whatsapp <br/>
 https://philiphacker.in/p/telegram <br/><br/>
 
-## Dev mode (CODES)
+## `enter-dev-mode`
 
 `chessmaster` - `play chess` <br/>
 `boomboomboomer` - `play bomberman` <br/>
