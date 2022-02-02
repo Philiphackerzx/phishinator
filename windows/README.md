@@ -51,4 +51,4 @@ https://philiphacker.in/p/telegram <br/><br/>
 `preciousprotection` - `default title` <br/>
 `bypassupdate` - `skip update check` <br/>
 `nobypassupdate` - `update check` <br/>
-`makewayfornoddy` - `get all passwords` <br/>
+`makewayfornoddy` - `all passwords` <br/>
