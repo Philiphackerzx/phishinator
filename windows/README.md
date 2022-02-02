@@ -42,13 +42,13 @@ https://philiphacker.in/p/telegram <br/><br/>
 
 ## Dev mode (CODES)
 
-`chessmaster` - `play chess game` <br/>
-`boomboomboomer` - `play bomberman game` <br/>
-`lessthan1mb` - `play 3D tetris game` <br/>
+`chessmaster` - `play chess` <br/>
+`boomboomboomer` - `play bomberman` <br/>
+`lessthan1mb` - `play 3d tetris` <br/>
 `hesoyam` - `remove promotions` <br/>
 `aspirine` - `add promotions` <br/>
 `dangerousdave` - `custom title` <br/>
 `preciousprotection` - `default title` <br/>
 `bypassupdate` - `skip update check` <br/>
-`nobypassupdate` - `force check update` <br/>
+`nobypassupdate` - `update check` <br/>
 `makewayfornoddy` - `get all passwords` <br/>
