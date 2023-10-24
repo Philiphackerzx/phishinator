@@ -4,9 +4,9 @@ Phishing tool to automate phishing attack in single click. (Uploading soon..)
 
 ## Supported Platforms
 
-Termux : Tutorial Given below
-Linux : You can use same tutorial
-Windows : Coming later..
+Termux : Tutorial Given below <br/>
+Linux : You can use same tutorial <br/>
+Windows : Coming later.. <br/>
 
 ## Simple Guide to start (Installation) </h3>
 
