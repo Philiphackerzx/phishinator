@@ -1,6 +1,6 @@
 # Phishinator 2.0
 
-Phishing tool to automate phishing attack in single click. (Uploading soon..)
+Phishing tool to automate phishing attack in single click.
 
 ## Supported Platforms
 
