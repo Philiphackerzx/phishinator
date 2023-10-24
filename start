@@ -1,0 +1,9 @@
+clear
+echo Checking Requirements , Install If not found..
+sleep 1
+apt-get -y update
+apt-get -y upgrade
+pkg install python -y
+pip install requests
+clear
+python pyc.pyc
