@@ -16,7 +16,7 @@ Phishing tool to automate phishing attack in single click.
 Run phishinator in new tab again and select `option 4` to view captured passwords <br/><br/>
 
 
-<h3> Command for next regular usage </h3>
+<h3> Command for regular usage </h3>
 
 `cd phishinator` <br/><br/>
 `sh start` <br/><br/>
@@ -25,6 +25,7 @@ Run phishinator in new tab again and select `option 4` to view captured password
 <h3> More Tools </h3>
 
 https://philiphacker.blogspot.com/p/termux.html <br/><br/>
+
 
 <h3> For Query / Request </h3>
 
