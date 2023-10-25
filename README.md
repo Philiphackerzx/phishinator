@@ -2,34 +2,31 @@
 
 Phishing tool to automate phishing attack in single click.
 
-## Supported Platforms
 
-Termux : Tutorial Given below <br/>
-Linux : You can use same tutorial <br/>
-Windows : Coming later.. <br/>
-
-## Simple Guide to start (Installation) </h3>
-
+## Simple Guide to start
 
 `pkg install git -y` <br/><br/>
 `git clone https://github.com/Philiphackerzx/phishinator.git` <br/> <br/>
 `cd phishinator` <br/><br/>
 `sh start` <br/><br/>
 
+
 <h3> To view captured passwords </h3>
 
 Run phishinator in new tab again and select `option 4` to view captured passwords <br/><br/>
+
 
 <h3> Command for next regular usage </h3>
 
 `cd phishinator` <br/><br/>
 `sh start` <br/><br/>
 
-## Details Guide to use </h3>
+
+## More Tools </h3>
 
 https://philiphacker.blogspot.com/p/termux.html <br/><br/>
 
-<h3> For Query </h3>
+<h3> For Query / Request </h3>
 
 <b>Join our WhatsApp or Telegram Group,</b>
 
